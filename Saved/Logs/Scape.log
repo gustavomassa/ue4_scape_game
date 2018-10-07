@@ -383,3 +383,52 @@ LogInit: Object subsystem initialized
 [2018.10.07-04.27.14:063][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2018.10.07-04.27.14:147][  0]LogRenderer: Reallocating scene render targets to support 1248x628 Format 10 NumSamples 1 (Frame:5).
 [2018.10.07-04.27.14:147][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.07-04.44.57:823][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.07-04.45.00:074][795]LogRenderer: Reallocating scene render targets to support 1256x628 Format 10 NumSamples 1 (Frame:4707).
+[2018.10.07-04.45.00:107][796]LogRenderer: Reallocating scene render targets to support 1268x628 Format 10 NumSamples 1 (Frame:4709).
+[2018.10.07-04.45.00:144][797]LogRenderer: Reallocating scene render targets to support 1276x628 Format 10 NumSamples 1 (Frame:4711).
+[2018.10.07-04.45.00:179][798]LogRenderer: Reallocating scene render targets to support 1296x628 Format 10 NumSamples 1 (Frame:4713).
+[2018.10.07-04.45.00:225][799]LogRenderer: Reallocating scene render targets to support 1312x628 Format 10 NumSamples 1 (Frame:4715).
+[2018.10.07-04.45.00:260][800]LogRenderer: Reallocating scene render targets to support 1316x628 Format 10 NumSamples 1 (Frame:4717).
+[2018.10.07-04.45.00:293][801]LogRenderer: Reallocating scene render targets to support 1320x628 Format 10 NumSamples 1 (Frame:4719).
+[2018.10.07-04.45.00:326][802]LogRenderer: Reallocating scene render targets to support 1328x628 Format 10 NumSamples 1 (Frame:4721).
+[2018.10.07-04.45.08:115][670]LogRenderer: Reallocating scene render targets to support 1332x628 Format 10 NumSamples 1 (Frame:5152).
+[2018.10.07-04.45.08:198][672]LogRenderer: Reallocating scene render targets to support 1340x628 Format 10 NumSamples 1 (Frame:5156).
+[2018.10.07-04.45.08:280][673]LogRenderer: Reallocating scene render targets to support 1344x628 Format 10 NumSamples 1 (Frame:5158).
+[2018.10.07-04.45.08:328][674]LogRenderer: Reallocating scene render targets to support 1352x628 Format 10 NumSamples 1 (Frame:5160).
+[2018.10.07-04.48.44:467][508]LogRenderer: Reallocating scene render targets to support 1356x628 Format 10 NumSamples 1 (Frame:6347).
+[2018.10.07-04.48.44:501][509]LogRenderer: Reallocating scene render targets to support 1360x628 Format 10 NumSamples 1 (Frame:6349).
+[2018.10.07-04.48.44:535][510]LogRenderer: Reallocating scene render targets to support 1364x628 Format 10 NumSamples 1 (Frame:6351).
+[2018.10.07-04.48.44:658][518]LogRenderer: Reallocating scene render targets to support 1368x628 Format 10 NumSamples 1 (Frame:6355).
+[2018.10.07-04.48.59:075][967]LogSlate: Window 'New Level' being destroyed
+[2018.10.07-04.48.59:078][967]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.07-04.48.59:089][967]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.07-04.48.59:108][967]LightingResults: New page: Lighting Build
+[2018.10.07-04.48.59:108][967]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.10.07-04.48.59:110][967]MapCheck: New page: Map Check
+[2018.10.07-04.48.59:110][967]LightingResults: New page: Lighting Build
+[2018.10.07-04.48.59:142][967]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.07-04.48.59:150][967]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.07-04.48.59:161][967]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.07-04.48.59:209][967]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47,702ms to complete.
+[2018.10.07-04.48.59:209][967]LogFileHelpers: Loading map 'Template_Default' took 0.132
+[2018.10.07-04.50.11:019][684]LogSlate: Window 'Save Level As' being destroyed
+[2018.10.07-04.50.11:097][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/room" FILE="D:/Projetos/Unreal/ue4_scape_game/Content/Maps/room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.07-04.50.11:124][684]LogSavePackage: Save=16.85ms
+[2018.10.07-04.50.11:124][684]LogSavePackage: Moving 'D:/Projetos/Unreal/ue4_scape_game/Saved/room0995165540A478C08454F2BA97D03B8B.tmp' to 'D:/Projetos/Unreal/ue4_scape_game/Content/Maps/room.umap'
+[2018.10.07-04.50.11:125][684]LogSavePackage: Display: Finished SavePackage D:/Projetos/Unreal/ue4_scape_game/Content/Maps/room.umap
+[2018.10.07-04.50.11:135][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/room_BuiltData" FILE="D:/Projetos/Unreal/ue4_scape_game/Content/Maps/room_BuiltData.uasset" SILENT=true
+[2018.10.07-04.50.11:146][684]LogSavePackage: Save=9.59ms
+[2018.10.07-04.50.11:146][684]LogSavePackage: Moving 'D:/Projetos/Unreal/ue4_scape_game/Saved/room_BuiltData00181AAD492AE799EF644FBA22E841F2.tmp' to 'D:/Projetos/Unreal/ue4_scape_game/Content/Maps/room_BuiltData.uasset'
+[2018.10.07-04.50.11:147][684]LogSavePackage: Display: Finished SavePackage D:/Projetos/Unreal/ue4_scape_game/Content/Maps/room_BuiltData.uasset
+[2018.10.07-04.50.11:151][684]LogFileHelpers: Saving map 'room' took 0.129
+[2018.10.07-04.50.31:161][  5]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.07-04.50.31:256][  6]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Scape
+[2018.10.07-04.50.31:256][  6]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.10.07-04.50.31:256][  6]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.10.07-04.50.31:256][  6]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.10.07-04.50.31:256][  6]LogTemp: BranchPath = DESKTOP-GM/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-GM/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.10.07-04.50.31:277][  6]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Gustavo Massaneiro\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.07-04.50.42:707][ 12]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/Scape.ScapeGameMode'
+[2018.10.07-04.51.33:017][745]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.07-04.51.33:025][745]LogSlate: Window 'Project Settings' being destroyed
